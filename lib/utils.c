@@ -37,6 +37,7 @@ int get_positions(char* str, int* positions) {
     int i, c, state, ctr, pos_ctr;
 
     i = ctr = pos_ctr = 0;
+    state = OUT;
     while((c = str[i++]) != EOF && c != '\0') {
         if (state == OUT && isdigit(c))
             state = IN;
