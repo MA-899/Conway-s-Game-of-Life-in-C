@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a C implementation of the classic [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a cellular automaton created by mathematician John Conway.
+This project is a C implementation of the classic [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), created by mathematician John Conway.
 
 ## Installation
 
